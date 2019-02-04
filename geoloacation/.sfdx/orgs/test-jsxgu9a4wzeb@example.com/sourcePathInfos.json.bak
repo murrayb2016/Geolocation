@@ -2,14 +2,14 @@
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app",
         {
+            "state": "n",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308037087,
             "changeTime": 1549308037087,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main",
         {
+            "state": "n",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308037103,
             "changeTime": 1549308037103,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549309556193,
-            "changeTime": 1549309556193,
-            "contentHash": "c40f426835a9aab17d92269783bb854933db788b"
+            "modifiedTime": 1549308715642,
+            "changeTime": 1549308715642,
+            "contentHash": "27dc2939b498a60ac8a1b356a051a9eb6257440f"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\aura",
         {
+            "state": "n",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549307978279,
             "changeTime": 1549308037103,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\lwc",
         {
+            "state": "n",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\lwc",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549307978279,
             "changeTime": 1549308037103,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "C:\\SalesforceDX_Projects\\geoloacation",
         {
+            "state": "n",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308212502,
             "changeTime": 1549308212502,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -90,235 +90,196 @@
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 6383,
             "modifiedTime": 1549308715571,
             "changeTime": 1549308715571,
-            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1549308715581,
             "changeTime": 1549308715581,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1549308715591,
             "changeTime": 1549308715591,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1549308715601,
             "changeTime": 1549308715601,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1549308715612,
             "changeTime": 1549308715612,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1549308715622,
             "changeTime": 1549308715622,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18840,
             "modifiedTime": 1549308715642,
             "changeTime": 1549308715642,
-            "contentHash": "8c633ef1cd43d656621f4f76935cf1e031d28f3f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "8c633ef1cd43d656621f4f76935cf1e031d28f3f"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1549308715650,
             "changeTime": 1549308715650,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\settings",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\settings",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308715569,
             "changeTime": 1549308715569,
-            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects\\Account\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308715571,
             "changeTime": 1549308715571,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects\\Account",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308715571,
             "changeTime": 1549308715571,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308715571,
             "changeTime": 1549308715571,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308715612,
             "changeTime": 1549308715612,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308715632,
             "changeTime": 1549308715632,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
         }
     ],
     [
         "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\permissionsets",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549308715642,
             "changeTime": 1549308715642,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\classes",
-        {
-            "state": "u",
-            "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\classes",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1549309556224,
-            "changeTime": 1549309556224,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
-        }
-    ],
-    [
-        "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\classes\\AccountController.cls",
-        {
-            "state": "u",
-            "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\classes\\AccountController.cls",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 292,
-            "modifiedTime": 1549309571090,
-            "changeTime": 1549309571090,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
-        }
-    ],
-    [
-        "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\SalesforceDX_Projects\\geoloacation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 195,
-            "modifiedTime": 1549309556226,
-            "changeTime": 1549309556226,
-            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
         }
     ]
 ]

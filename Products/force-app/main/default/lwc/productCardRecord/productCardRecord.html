@@ -1,0 +1,18 @@
+<template>
+    <lightning-card title={productName} icon-name="standard:product">
+        <div class="slds-p-horizontal_small">
+            <div class="slds-media">
+                <div class="slds-media__figure">
+                    <template if:true={productImage}>
+                        <img src={productImage} alt="AC Unit Picture" class="product-img"/>
+                    </template>
+                </div>
+                <div class="slds-media__body">
+                    <p class="slds-m-bottom_xx-small">Product SKU: {productSKU}</p>
+                    <p class="slds-m-bottom_xx-small">Product Family: {productFamily}</p>
+                    <p class="slds-m-bottom_xx-small">Product Code: {productCode}</p>
+                </div>
+            </div>
+    </div>
+</lightning-card>
+</template>
